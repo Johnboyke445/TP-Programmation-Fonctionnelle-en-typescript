@@ -15,7 +15,10 @@ Le code illustre différentes notions clés :
 
 ## Lancement du projet
 
-Ouvre un terminal **Git Bash**  puis exécute les commandes suivantes :
+1. **Copie le projet** sur ton ordinateur ou clone le dépôt GitHub.  
+2. **Ouvre le dossier** du projet avec **Visual Studio Code** (ou ton éditeur préféré).  
+3. **Ouvre un terminal (Git Bash)** dans le dossier du projet.  
+4. **Exécute les commandes suivantes** pour compiler et lancer le code TypeScript : 
 
 ```bash
 tsc tp-fonctionnel.ts
